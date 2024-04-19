@@ -14,7 +14,7 @@
 
 - 📫 Email: **vrushali.solanki01@gmail.com**
 
-- 📄 Resume Link: [https://drive.google.com/file/d/1DDfJoOhlL1EkX21ieryNiSWF7V3twVXD/view?pli=1](https://drive.google.com/file/d/1DDfJoOhlL1EkX21ieryNiSWF7V3twVXD/view?pli=1)
+- 📄 Resume Link: [https://drive.google.com/file/d/1KPwz4_NVlpSyVVYZaeH1G2cUBuTPwY4R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
