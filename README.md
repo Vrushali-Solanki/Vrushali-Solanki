@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushali-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="vrushali-solanki" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and other android concepts 🚀**
+- 🌱 I’m currently learning **Jetpack Compose🚀**
 
 - 👨‍💻 [View Portfolio](https://vrushalisolanki.netlify.app/)
 
