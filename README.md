@@ -46,4 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushali-solanki&show_icons=true&locale=en&layout=compact" alt="vrushali-solanki" /></p>
 
-<img alt="Coding" width="200" src="https://images.template.net/148779/android-skate-animated-stickers-zyjtb.gif">
+<img alt="Coding" width="120" src="https://images.template.net/148779/android-skate-animated-stickers-zyjtb.gif">
