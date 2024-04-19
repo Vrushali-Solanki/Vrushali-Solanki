@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Jetpack Compose and other android concepts 🚀**
 
-- 👨‍💻 Portfolio Link: [https://vrushalisolanki.netlify.app/](https://vrushalisolanki.netlify.app/)
+- 👨‍💻 [View Portfolio](https://vrushalisolanki.netlify.app/)
 
 - 💬 Ask me about **Android and Flutter**
 
 - 📫 Email: **vrushali.solanki01@gmail.com**
 
-- 📄 [Resume Link](https://drive.google.com/file/d/1KPwz4_NVlpSyVVYZaeH1G2cUBuTPwY4R/view?usp=sharing): [https://drive.google.com/file/d/1KPwz4_NVlpSyVVYZaeH1G2cUBuTPwY4R/view?usp=sharing](https://drive.google.com/file/d/1KPwz4_NVlpSyVVYZaeH1G2cUBuTPwY4R/view?usp=sharing)
+- 📄 [Download Resume](https://drive.google.com/file/d/1KPwz4_NVlpSyVVYZaeH1G2cUBuTPwY4R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
